@@ -3,6 +3,9 @@ This is a fullstack application for sharing random ideas. It was built as part o
 
 The app includes a Node.js/Express REST API that uses MongoDB for persistent storage. The frontend can be integrated separately and communicates with the API through standard HTTP methods.
 
+### 🔗 Deployed Link
+👉 [https://randomideasproject.onrender.com/](https://randomideasproject.onrender.com/)
+
 ![image](https://github.com/user-attachments/assets/2303fa50-d5d2-4c6a-90b0-898398f1eb07)
 
 
